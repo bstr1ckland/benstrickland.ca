@@ -1,5 +1,7 @@
 # Welcome to benstrickland.com!
 
+### Note: no longer maintained
+
 ## Stack
 
 HTML, CSS, JavaScript
