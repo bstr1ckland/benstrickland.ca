@@ -1,6 +1,6 @@
 # Welcome to benstrickland.com!
 
-### Note: no longer maintained
+### Note: no longer maintained. Website I made in first year of school, perhaps to be refactored one day
 
 ## Stack
 
